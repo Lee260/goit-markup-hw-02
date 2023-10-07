@@ -17,9 +17,11 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
   }
+
   .logo-style:link {
     text-decoration: none;
   }
+
   .filter-button {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -29,6 +31,7 @@ body {
     text-transform: uppercase;
     color: #4d5ae5;
   }
+
   .filter-button-rest {
     background-color: #4d5ae5;
     font-family: "Roboto", sans-serif;
@@ -39,6 +42,7 @@ body {
     color: #ffffff;
     cursor: pointer;
   }
+
   .header {
     font-family: Roboto;
     font-size: 16px;
@@ -48,6 +52,7 @@ body {
     letter-spacing: 0.02em;
     letter-spacing: 0.02em;
   }
+
   .link-nav {
     color: #2e2f42;
     font-weight: 500;
@@ -55,10 +60,16 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
+
+  .link-nav:link{
+    text-decoration: none
+  }
+
   .header-studio:link {
     text-decoration: none;
     color: #404bbf;
   }
+  
   .adress-style {
     font-style: normal;
   }
