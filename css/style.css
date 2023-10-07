@@ -85,7 +85,8 @@ body {
   }
 
   .thrd-head-list .link-nav:hover,
-  .thrd-head-list .link-nav:active {
+  .thrd-head-list .link-nav:active,
+  .thrd-head-list .link-nav:visited {
     color:#404bbf
   }
 
