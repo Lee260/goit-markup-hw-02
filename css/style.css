@@ -84,10 +84,6 @@ body {
     text-decoration: none
   }
 
-  .thrd-head-list .link-nav {
-    color:#404bbf
-  }
-
   .thrd-head-list .link-nav:hover,
   .thrd-head-list .link-nav:active {
     color:#404bbf
