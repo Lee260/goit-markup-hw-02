@@ -84,15 +84,15 @@ body {
     text-decoration: none
   }
 
-  .thrd-head-list .link-nav:hover {
+  .link-nav:hover {
     color:#404bbf
   }
 
-  .thrd-head-list .link-nav:active {
+  .link-nav:active {
     color:#404bbf
   }
-  
-  .thrd-head-list .link-nav:visited {
+
+  .link-nav:visited {
     color:#404bbf
   }
 
