@@ -84,19 +84,19 @@ body {
     text-decoration: none;
   }
 
-  .link-nav:hover {
+  .link-nav:link:hover {
     color:#404bbf;
   }
 
-  .link-nav:focus {
+  .link-nav:link:focus {
     color:#404bbf;
   }
 
-  .filter-button-rest:hover{
+  .filter-button-rest:link:hover{
     color:#404bbf;
   }
 
-  .filter-button-rest:focus{
+  .filter-button-rest:link:focus{
     color:#404bbf;
   }
 
