@@ -62,7 +62,7 @@ body {
   }
 
   .link-nav:link{
-    text-decoration: none
+    text-decoration: none;
   }
 
   .header-studio:link {
@@ -81,29 +81,29 @@ body {
   }
 
   .address-link:link {
-    text-decoration: none
+    text-decoration: none;
   }
 
   .link-nav:hover {
-    color:#404bbf
+    color:#404bbf;
   }
 
   .link-nav:focus {
-    color:#404bbf
+    color:#404bbf;
   }
 
   .filter-button-rest:hover{
-    color:#404bbf
+    color:#404bbf;
   }
 
   .filter-button-rest:focus{
-    color:#404bbf
+    color:#404bbf;
   }
 
 h2 {
     font-weight: 500;
-    font-size: 20px
-    line-height: 1.2
+    font-size: 20px;
+    line-height: 1.2;
   }
 
   .link-style:link {
@@ -159,9 +159,15 @@ h2 {
   .fourth-section {
     background-color: #f4f4fd;
   }
+
   .list-background {
     background-color: #ffffff;
   }
+
+  .all:list {
+    list-style: none;
+  }
+
   .span-studio-class {
     color: #2e2f42;
   }
