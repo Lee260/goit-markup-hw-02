@@ -79,6 +79,11 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
   }
+
+  .address-link:link {
+    text-decoration: none
+  }
+
   .link-style:link {
     text-decoration: none;
     color: #404bbf;
