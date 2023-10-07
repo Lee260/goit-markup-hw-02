@@ -88,11 +88,15 @@ body {
     color:#404bbf
   }
 
-  .link-nav:active {
+  .link-nav:focus {
     color:#404bbf
   }
 
-  .link-nav:focus {
+  .filter-button-rest:hover{
+    color:#404bbf
+  }
+
+  .filter-button-rest:focus{
     color:#404bbf
   }
 
